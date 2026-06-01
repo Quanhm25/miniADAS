@@ -14,5 +14,5 @@ Here is my source code and circuit diagram for miniADAS - a system have ability 
 * **Buzzer and LED**
 
 ## Final Result Visualization
-![Final_Res](Images/visualization.png)
+![Final_Res](Images/visualization.jpg)
 
